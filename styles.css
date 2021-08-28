@@ -13,7 +13,7 @@ body {
     font-family: 'Assistant', sans-serif;
     color: white;
     margin: 0px;
-    
+
 
 }
 
@@ -117,26 +117,26 @@ hr {
 }
 
 /** section **/
-.section {
-    
-}
+.section {}
 
 .section h1 {
     text-align: center;
     padding: 1rem;
     ;
 }
+
 .ow {
     background-color: var(--darker-background-color);
 }
+
 /* footer */
-.footer{
+.footer {
     padding: 2rem;
     background-color: var(--darker-background-color);
     text-align: center;
     border-radius: 1rem
 }
+
 .footer ul {
     padding-inline-start: 0px;
 }
-
